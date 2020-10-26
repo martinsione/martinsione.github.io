@@ -254,7 +254,7 @@ textarea:focus {
 #name,
 #email,
 textarea[required] {
-  border: 1px solid red;
+  border: 1px solid #53a8fd;
 }
 
 /* Text area */
@@ -353,26 +353,3 @@ textarea {
     max-width: 1200px;
     margin: 2em auto;
   }
-
-  /* #portfolio-img{ */ 
-  /*   width: 100%; */
-  /*   display: flex; */
-  /*   justify-content: space-between; */
-  /*   align-items: center; */
-  /*   flex-wrap: wrap; */
-  /* } */
-  /* #portfolio article div a{ */
-  /*   display: flex; */
-  /*   justify-content: center; */
-  /*   align-items: center; */
-  /*   flex-direction: row; */
-  /*   padding: 0; */
-  /*   margin: 0; */
-  /*   width: 100%; */
-  /* } */
-  /* #portfolio article figure a img{ */
-  /*   width: 30%; */
-  /* } */
-  /* #portfolio article div a img:hover{ */
-  /*   background-color: rgba(245, 245, 245, 0.9); */
-  /* } */
