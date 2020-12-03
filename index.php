@@ -21,6 +21,7 @@
 
     <!-- CSS styles -->
     <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="/prueba/css/styles.css" />
     <title>Martin Sione Jr dev</title>
   </head>
   <body>
@@ -125,7 +126,7 @@
         <section id="contact">
           <article>
             <h3>Contact</h3>
-            <form action="" method="post">
+            <form action="enviar.php" method="post">
               <input
                 type="text"
                 name="name"
@@ -143,7 +144,7 @@
               />
               <div>
                 <textarea
-                  name=""
+                  name="message"
                   id=""
                   placeholder="Your message"
                   required
